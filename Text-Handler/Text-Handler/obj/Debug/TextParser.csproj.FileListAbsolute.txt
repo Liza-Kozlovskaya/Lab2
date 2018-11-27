@@ -1,0 +1,7 @@
+C:\Users\A-Servis\source\repos\ООП\Text-Handler-master\Text-Handler\bin\Debug\Text-Handler.exe.config
+C:\Users\A-Servis\source\repos\ООП\Text-Handler-master\Text-Handler\bin\Debug\Text-Handler.exe
+C:\Users\A-Servis\source\repos\ООП\Text-Handler-master\Text-Handler\bin\Debug\Text-Handler.pdb
+C:\Users\A-Servis\source\repos\ООП\Text-Handler-master\Text-Handler\obj\Debug\TextParser.csprojResolveAssemblyReference.cache
+C:\Users\A-Servis\source\repos\ООП\Text-Handler-master\Text-Handler\obj\Debug\TextParser.csproj.CoreCompileInputs.cache
+C:\Users\A-Servis\source\repos\ООП\Text-Handler-master\Text-Handler\obj\Debug\Text-Handler.exe
+C:\Users\A-Servis\source\repos\ООП\Text-Handler-master\Text-Handler\obj\Debug\Text-Handler.pdb
