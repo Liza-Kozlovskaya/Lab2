@@ -45,7 +45,7 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
             var parser = new TextParser();
-            var streamReader = new StreamReader(@"..\..\File\Text.txt", Encoding.Default);
+            var streamReader = new StreamReader(@"..\..\Files\Text.txt", Encoding.Default);
             var text = parser.Parse(streamReader);
 
             foreach (var word in text.GetWordsFromInterrogativeSentences(13))
@@ -63,7 +63,7 @@ namespace UnitTestProject1
         public void TestMethod2()
         {
             var parser = new TextParser();
-            var streamReader = new StreamReader(@"..\..\File\Text.txt", Encoding.Default);
+            var streamReader = new StreamReader(@"..\..\Files\Text.txt", Encoding.Default);
             var text = parser.Parse(streamReader);
 
 
